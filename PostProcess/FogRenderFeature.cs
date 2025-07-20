@@ -1,8 +1,7 @@
-﻿using Script.renderfeatures;
-using UnityEngine;
+﻿using UnityEngine;
+using Script.renderfeatures;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
-
 
 public class FogRenderFeature : ScriptableRendererFeature
 {

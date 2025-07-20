@@ -1,13 +1,13 @@
 ﻿using System;
-using System.Globalization;
 using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening.Core;
-using DG.Tweening.Core.Enums;
 using DG.Tweening.Plugins;
+using System.Globalization;
+using DG.Tweening.Core.Enums;
+using Text = UnityEngine.UI.Text;
 using DG.Tweening.Plugins.Options;
 using Outline = UnityEngine.UI.Outline;
-using Text = UnityEngine.UI.Text;
 
 namespace DG.Tweening
 {
