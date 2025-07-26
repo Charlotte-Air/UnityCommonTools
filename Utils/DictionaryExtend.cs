@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+
 /// <summary>
 /// 字典替代类
 /// </summary>

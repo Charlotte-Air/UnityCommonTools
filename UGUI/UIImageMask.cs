@@ -4,9 +4,9 @@ using UnityEngine.UI;
 using UnityEditor;
 #endif
 using UnityEngine.Events;
-using UnityEngine.EventSystems;
 using System.Collections;
-using AOTScripts.Framework.Utils.Unity;
+using Framework.Utils.Unity;
+using UnityEngine.EventSystems;
 
 [ExecuteInEditMode]
 public class UIImageMask : Image
