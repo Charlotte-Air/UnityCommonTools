@@ -1,0 +1,5 @@
+<Objects>
+	<GM Id="0" Type="0" Command="/command" Desc="执行命令"/>
+	<GM Id="1" Type="0" Command="/currency" Desc="添加货币"/>
+	<GM Id="2" Type="0" Command="/item" Desc="添加物品"/>
+</Objects>
